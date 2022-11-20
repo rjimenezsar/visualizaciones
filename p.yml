@@ -210,5 +210,5 @@ dependencies:
     - geopandas==0.12.1
     - munch==2.5.0
     - pyproj==3.4.0
-    - schemdraw==0.14
+    - schemdraw==0.15
     - shapely==1.8.5.post1
